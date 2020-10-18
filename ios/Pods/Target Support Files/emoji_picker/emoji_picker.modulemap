@@ -1,0 +1,6 @@
+framework module emoji_picker {
+  umbrella header "emoji_picker-umbrella.h"
+
+  export *
+  module * { export * }
+}

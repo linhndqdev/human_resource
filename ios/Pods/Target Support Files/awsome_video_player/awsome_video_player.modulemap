@@ -1,0 +1,6 @@
+framework module awsome_video_player {
+  umbrella header "awsome_video_player-umbrella.h"
+
+  export *
+  module * { export * }
+}

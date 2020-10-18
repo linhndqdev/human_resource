@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "892343113770",
+    "firebase_url": "https://asgl-id.firebaseio.com",
+    "project_id": "asgl-id",
+    "storage_bucket": "asgl-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892343113770:android:65ced30fc482682e310b53",
+        "android_client_info": {
+          "package_name": "com.asgl.human_resource"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892343113770-0lma3tt6jvcn543mupnauankd0urs27c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asgl.human_resource",
+            "certificate_hash": "6cf5f28357c8e4c97d98ec064b01d58c49e23bd8"
+          }
+        },
+        {
+          "client_id": "892343113770-56gjg9k9nlir8av5mcjhkh38k4l2pk2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWGxR6pPM1LR7lOboroyRg5vscWgdEYBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892343113770-56gjg9k9nlir8av5mcjhkh38k4l2pk2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

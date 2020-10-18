@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>892343113770-jjbvn68u6l7b8b8h1el7k8outj64gam4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.892343113770-jjbvn68u6l7b8b8h1el7k8outj64gam4</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>892343113770-0lma3tt6jvcn543mupnauankd0urs27c.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAgXpIxLinL13ANPd_dOuPLRFVqtwuw4kc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>892343113770</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.asgl.human-resource</string>
+	<key>PROJECT_ID</key>
+	<string>asgl-id</string>
+	<key>STORAGE_BUCKET</key>
+	<string>asgl-id.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:892343113770:ios:6b731fe1f28ece37310b53</string>
+	<key>DATABASE_URL</key>
+	<string>https://asgl-id.firebaseio.com</string>
+</dict>
+</plist>
